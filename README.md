@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumanth2467
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning to become a SDEt
+- 🌱 I’m currently learning to become a SDET
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sumanthsure2467@gmail.com
 
